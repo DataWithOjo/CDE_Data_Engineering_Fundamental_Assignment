@@ -1,6 +1,6 @@
 # Data Pipeline Design
 
-
+![Conceptual Pipeline](./Beejan_Technologies_Data_Design.png)
 
 ## Source Identification
 - **SMS Complaints**  
